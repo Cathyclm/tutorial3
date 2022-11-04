@@ -25,7 +25,7 @@ button.addEventListener('click',function(){
   const heightValue = Number.parseFloat(heightInput);
   const weightValue = Number.parseFloat(weightInput);
 
-  // 如果是负数？
+  // 如果是负数？··
   // 如果身高特别高，>2.5m --->alert
   // 如果体重特别重，>1000kg <10kg ----alert
   // normal range BIM 18.5-24.9
