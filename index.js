@@ -20,7 +20,8 @@ button.addEventListener('click',function(){
   // console.log('height', heightValue);
   // console.log('height type is', typeof heightValue);
   // console.log('weight', weightValue);
-
+ 
+// Number.parseFloat('123.33') 把字符串string变为数字number
   const heightValue = Number.parseFloat(heightInput);
   const weightValue = Number.parseFloat(weightInput);
 
